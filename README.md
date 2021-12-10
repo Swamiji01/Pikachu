@@ -24,8 +24,8 @@ The easiest way to deploy this Bot
  
 CREDITS
 ```
-❤️ Kristina- Dipesh
-❤ Pikachu - Manjeet
+❤️ Alexa- Aman
+❤ Pikachu - Pikachu power
 ❤️ 
 This Bot Is Created By @PIKACHU_BOT_OWNER ! if your kanging this without fork at least give a credit to get a smile of my hard work.
 
