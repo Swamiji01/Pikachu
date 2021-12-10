@@ -1,6 +1,6 @@
 # Pikachu
 <p align="center">
-    <a href="https://github.com/kaal0408/Pikachu/stargazers"><img src="https://img.shields.io/github/stars/kaal0408/Pikachu?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/Swamiji01/Pikachu/stargazers"><img src="https://img.shields.io/github/stars/kaal0408/Pikachu?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
     <a href="https://app.codacy.com/manual/kaal0408/Pikachu/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/0ac1f1b5c5b2376a14f3f.jpg">
+  <img src="https://telegra.ph/file/a68d184280888b3e7119a.jpg">
 </p>
 
 # Pikachu
-Me On Telegram [✨Pikachu✨](https://t.me/Pikachu_X_bot)
+Me On Telegram [✨Pikachu✨](https://t.me/Pikachu_X_Robot)
 
 ## How To Host
 The easiest way to deploy this Bot
@@ -27,7 +27,7 @@ CREDITS
 ❤️ Kristina- Dipesh
 ❤ Pikachu - Manjeet
 ❤️ 
-This Bot Is Created By @Murat_30_God ! if your kanging this without fork at least give a credit to get a smile of my hard work.
+This Bot Is Created By @PIKACHU_BOT_OWNER ! if your kanging this without fork at least give a credit to get a smile of my hard work.
 
 
 
